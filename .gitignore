@@ -1,0 +1,32 @@
+# Compiled CSS
+*.css
+
+# Minified js
+*.min.js
+/assets/js/vendor/*.min.js
+/assets/js/editor.js
+
+# Sass
+.sass-cache
+node_modules
+storefront
+storefront.zip
+npm-debug.log
+
+# Codekit
+config.codekit
+
+# Transifex
+.transifexrc
+/languages/*.po
+/languages/*.mo
+
+# PhpStorm
+.idea
+
+# macOS
+.DS_Store
+
+# Composer
+vendor
+/eslint_report.json
